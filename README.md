@@ -1,24 +1,14 @@
-# client
+# Sample App with TESTs
+#deployed:
+#app created based on: "https://www.youtube.com/watch?v=2xIoWm08SBM"
 
-## Project setup
-```
-npm install
-```
+#server:
+npm run dev
 
-### Compiles and hot-reloads for development
-```
+#client:
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#db
+cd server 
+mongod
