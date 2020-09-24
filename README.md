@@ -1,5 +1,5 @@
-# Sample App with TESTs
-#deployed:
+#Sample App 
+
 #app created based on: "https://www.youtube.com/watch?v=2xIoWm08SBM"
 
 #server:
